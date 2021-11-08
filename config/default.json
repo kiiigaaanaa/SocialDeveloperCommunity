@@ -1,0 +1,5 @@
+{
+    "mongoURI": "mongodb+srv://dbkigana:psU0Q5IbgOvVhYkG@cluster0.vzzot.mongodb.net/SocialNetworkCommunity?retryWrites=true&w=majority",
+    "jwtSecret": "secret",
+    "githubToken": "<yoursecrectaccesstoken>"
+  }
